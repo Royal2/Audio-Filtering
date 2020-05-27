@@ -1,0 +1,3 @@
+*.tex linguist-detectable=false
+*.m linguist-detectable=true
+*.c linguist-detectable=true
